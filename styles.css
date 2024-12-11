@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+  text-align: center;
+}
+
+.buttons-container {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
